@@ -15,16 +15,19 @@ At the core of the speed control system is a fuzzy logic–based decision model 
 
 ## System Prototype
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/Prototype Side View.png" width="300"/>
-    </td>
-    <td align="center">
-      <img src="images/Prototype Top View.png" width="270"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/Prototype Side View.png" width="350"/>
+      </td>
+      <td align="center">
+        <img src="images/Prototype Top View.png" width="310"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 Small-scale autonomous formula car prototype featuring a mounted 1D LiDAR sensors, onboard computer for real-time processing, wireless communication module, and a top-mounted emergency stop system. Designed with a compact and functional control layout optimized for autonomous track navigation.
 
