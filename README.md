@@ -64,3 +64,10 @@ The autonomous formula car integrates multiple hardware components working in co
   <br>
   <em>Testing track used for performance evaluation, designed to challenge autonomous navigation through varying curves and straight-line segments</em>
 </p>
+
+## Track Test Run
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/5cfbff6a-5b69-4083-8d07-5516995f29f4" controls width="300"></video>
+  <p><em>Demo of the small-scale formula robot driving autonomously on the test track.</em></p>
+</div>
